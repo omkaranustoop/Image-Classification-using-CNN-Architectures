@@ -1,10 +1,13 @@
-# Image-Classification-using-CNNs
-A repository of Fundamental Image Classification Projects using Convolutional Neural Networks
+# Cats Vs Dogs-Classification-using-CNNs
 
 ### Directory Structure
 
-This Directory contains several Basic Image Classification Projects Experimented with Customised CNN Architectures and Classical CNN Architectures. The description of the Project Folders can be Found Below :
+This Directory contains Following Files
 
-1. **Cats VS Dogs Classification** - This folder contains two .ipynb Notebooks for Cats Vs Dogs Classification. One Notebook is Classification without Augmentation and the other Notebook is Classification with Augmentation.
+1. **Notebooks** - This folder contains two .ipynb Notebooks for Cats Vs Dogs Classification. One Notebook is Classification without Augmentation and the other Notebook is Classification with Augmentation.
+
+2. **Images Without Augmentation** - This Folder contains Screenshots of Loss and Acuuracy Graphs for Cats VS Dogs wihtout Augmentation.
+
+3. **Images With Augmentation** - This Folder contains Screenshots of Loss and Accuracy Graphs for Cats VS Dogs with Augmentation.
 
 
