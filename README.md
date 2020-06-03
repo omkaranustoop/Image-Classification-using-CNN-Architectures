@@ -1,5 +1,7 @@
 # Horses VS Human-Classification-using-CNNs
 
+For this Task, Customised CNN model gave the best results, outperforming the Convolutional Architecture of AlexNet.
+
 ### Directory Structure
 
 This Directory contains Following Files
