@@ -1,5 +1,7 @@
 # Cats Vs Dogs-Classification-using-CNNs
 
+For this Task, Customised CNN Model and AlexNet Architecture yielded best results.
+
 ### Directory Structure
 
 This Directory contains Following Files
