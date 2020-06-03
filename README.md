@@ -10,7 +10,16 @@ This Directory contains Following Files
 
 3. **Images With Augmentation** - This Folder contains Screenshots of Loss and Accuracy Graphs for Cats VS Dogs with Augmentation.
 
-### Analysis Wihout Augmentation
+#### Result Summary
+
+| Architecture               | Test Accuracy     |
+| -------------              |:-----------------:|
+| CNN + No Augmentation      |  0.5230           |
+| AlexNet + No Augmentation  |**0.7720**         |
+| CNN + Augmentation         |  0.6330           |
+| AlexNet + Augmentation     |  0.7460           |
+
+### Analysis Without Augmentation
 
 **Results With Customised CNN Architecture**
 
@@ -21,3 +30,15 @@ This Directory contains Following Files
 
 ![](Images%20wihout%20Augmentation/AlexNet-Accuracy.PNG)
 ![](Images%20wihout%20Augmentation/AlexNet-Loss.PNG)
+
+### Analysis With Augmentation
+
+**Results With Customised CNN Architecture**
+
+![](Images%20With%20Augmentation/Customised_CNN_Accuracy.PNG)
+![](Images%20With%20Augmentation/Customised_CNN_Loss.PNG)
+
+**Results With AlexNet Architecture**
+
+![](Images%20With%20Augmentation/AlexNet_Accuracy.PNG)
+![](Images%20With%20Augmentation/AlexNet_Loss.PNG)
