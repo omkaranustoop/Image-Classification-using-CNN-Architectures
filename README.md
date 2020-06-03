@@ -1,10 +1,23 @@
-# Image-Classification-using-CNNs
-A repository of Fundamental Image Classification Projects using Convolutional Neural Networks
+# Horses VS Human-Classification-using-CNNs
 
-### Repository Structure
+### Directory Structure
 
-This Repository Consists of the Following Branches :
+This Directory contains Following Files
 
-1.**Cats VS Dogs Classification** - This branch has working files on Classifying Cats and Dogs which is a Binary Image Classification Task.
+1. **Notebooks** - This folder contains two .ipynb Notebooks for Horses VS Human Classification. One Notebook is Classification without Augmentation and the other Notebook is Classification with Augmentation.
 
-2.**Horse VS Human** - This Branch has Working files on Predicting whether the input image is of a Horse or a Human.
+2. **Images Without Augmentation** - This Folder contains Screenshots of Loss and Acuuracy Graphs for Horses VS Human wihtout Augmentation.
+
+3. **Images With Augmentation** - This Folder contains Screenshots of Loss and Accuracy Graphs for Horses VS Human with Augmentation.
+
+### Analysis Wihout Augmentation
+
+**Results With Customised CNN Architecture**
+
+![](Images%20wihout%20Augmentation/Custom_Network_Accuracy.PNG)
+![](Images%20wihout%20Augmentation/Custom_Nwtwork_Loss.PNG)
+
+**Results With AlexNet Architecture**
+
+![](Images%20wihout%20Augmentation/AlexNet-Accuracy.PNG)
+![](Images%20wihout%20Augmentation/AlexNet-Loss.PNG)
