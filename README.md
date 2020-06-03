@@ -14,10 +14,10 @@ This Directory contains Following Files
 
 **Results With Customised CNN Architecture**
 
-![](Images%20wihout%20Augmentation/Custom_Network_Accuracy.PNG)
-![](Images%20wihout%20Augmentation/Custom_Nwtwork_Loss.PNG)
+![](Images%20Without%20Augmentation/Customsed_Accuracy.PNG)
+![](Images%20Without%20Augmentation/Customised_Loss.PNG)
 
 **Results With AlexNet Architecture**
 
-![](Images%20wihout%20Augmentation/AlexNet-Accuracy.PNG)
-![](Images%20wihout%20Augmentation/AlexNet-Loss.PNG)
+![](Images%20Without%20Augmentation/Alexnet_Accuracy.PNG)
+![](Images%20Without%20Augmentation/AlexNet_Loss.PNG)
