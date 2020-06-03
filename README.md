@@ -10,6 +10,16 @@ This Directory contains Following Files
 
 3. **Images With Augmentation** - This Folder contains Screenshots of Loss and Accuracy Graphs for Horses VS Human with Augmentation.
 
+#### Result Summary
+
+| Architecture               | Test Accuracy     |
+| -------------              |:-----------------:|
+| CNN + No Augmentation      |**0.9453**         |
+| AlexNet + No Augmentation  |**0.9414**         |
+| CNN + Augmentation         |  0.8750           |
+| AlexNet + Augmentation     |**0.9330**         |
+
+
 ### Analysis Wihout Augmentation
 
 **Results With Customised CNN Architecture**
@@ -21,3 +31,16 @@ This Directory contains Following Files
 
 ![](Images%20Without%20Augmentation/Alexnet_Accuracy.PNG)
 ![](Images%20Without%20Augmentation/AlexNet_Loss.PNG)
+
+### Analysis With Augmentation
+
+**Results With Customised CNN Architecture**
+
+![](Images%20With%20Augmentation/Accuracy_Customised.PNG)
+![](Images%20With%20Augmentation/Loss_Customised.PNG)
+
+**Results With AlexNet Architecture**
+
+![](Images%20With%20Augmentation/AlexNet_Accuracy.PNG)
+![](Images%20With%20Augmentation/AlexNet_Loss.PNG)
+
