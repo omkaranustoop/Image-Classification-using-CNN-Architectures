@@ -12,4 +12,28 @@ This Directory contains Following Files
 
 3. **Working** - This Folder Contains Screenshots of Sample movie posters given as Input and the predicted Genre.
 
+#### Result Summary
 
+| Architecture               | Test Accuracy     |
+| -------------              |:-----------------:|
+| Customized_CNN             |  0.3471           |
+| AlexNet                    |  0.3581           |
+| VGG-16                     |  0.1901           |
+| Pre-Trained ResNet         |**0.3921**           |
+
+### Sample Results
+
+![](Working/Phir-Hera-Pheri.PNG)
+![](Working/Memento.PNG)
+
+### Sample Graphs
+
+### Cutomized CNN
+
+![](Graphs/Customized_CNN/Customized_CNN_Accuracy.PNG)
+![](Graphs/Customized_CNN/Customized_CNN_Loss.PNG)
+
+### AlexNet
+
+![](Graphs/AlexNet/Alex_Net_Accuracy.PNG)
+![](Graphs/AlexNet/Alex_Net_Loss.PNG)
