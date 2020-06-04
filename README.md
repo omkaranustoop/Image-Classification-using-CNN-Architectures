@@ -8,3 +8,5 @@ This Repository Consists of the Following Branches :
 1.**Cats VS Dogs Classification** - This branch has working files on Classifying Cats and Dogs which is a Binary Image Classification Task.[Link](https://github.com/omkaranustoop/Image-Classification-using-CNN-Architectures/tree/Cats-VS-Dogs-Classification)
 
 2.**Horse VS Human** - This Branch has Working files on Predicting whether the input image is of a Horse or a Human.[Link](https://github.com/omkaranustoop/Image-Classification-using-CNN-Architectures/tree/Horses-VS-Human)
+
+3.**Movie-Genre-Identification** - This Branch has working files on Predicting genre of a movie given its poster as Input. Its a Multi-Label Classification Task.[Link](https://github.com/omkaranustoop/Image-Classification-using-CNN-Architectures/tree/Movie-Genre-Identificaton-from-Posters)
