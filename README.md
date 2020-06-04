@@ -1,10 +1,15 @@
-# Image-Classification-using-CNNs
-A repository of Fundamental Image Classification Projects using Convolutional Neural Networks
+# Movie-Genre-Identification-From-Posters
 
-### Repository Structure
+A Multi-Label Image classification task to find Genre of a Movie from its Poster. For this task, Customised CNN Model, AlexNet and Pre-Trained ResNet Model yielded reasonable accuracy.
 
-This Repository Consists of the Following Branches :
+### Directory Structure
 
-1.**Cats VS Dogs Classification** - This branch has working files on Classifying Cats and Dogs which is a Binary Image Classification Task.[Link](https://github.com/omkaranustoop/Image-Classification-using-CNN-Architectures/tree/Cats-VS-Dogs-Classification)
+This Directory contains Following Files
 
-2.**Horse VS Human** - This Branch has Working files on Predicting whether the input image is of a Horse or a Human.[Link](https://github.com/omkaranustoop/Image-Classification-using-CNN-Architectures/tree/Horses-VS-Human)
+1. **Notebook** - This folder contains one .ipynb Notebook for Genre Identification. The notebook Includes all experimentation details.
+
+2. **Graphs** - This Folder contains Screenshots of Loss and Acuuracy Graphs for different architectures.
+
+3. **Working** - This Folder Contains Screenshots of Sample movie posters given as Input and the predcited Genre.
+
+
