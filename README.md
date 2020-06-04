@@ -10,6 +10,6 @@ This Directory contains Following Files
 
 2. **Graphs** - This Folder contains Screenshots of Loss and Acuuracy Graphs for different architectures.
 
-3. **Working** - This Folder Contains Screenshots of Sample movie posters given as Input and the predcited Genre.
+3. **Working** - This Folder Contains Screenshots of Sample movie posters given as Input and the predicted Genre.
 
 
